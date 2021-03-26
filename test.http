@@ -1,0 +1,9 @@
+POST http://localhost:3002/routes/signup
+Content-Type: application/json
+
+{
+    "username":"Nick",
+    "email":"nickmohale@gmail.com",
+    "password":"password@1",
+    "password2":"password@1"
+}
